@@ -1,2 +1,0 @@
-# toptenactiongames
-Created with CodeSandbox
